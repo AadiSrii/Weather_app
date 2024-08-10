@@ -1,4 +1,4 @@
-## Weather Dashboard
+# Weather Dashboard
 A responsive Weather Dashboard application built with React and Vite that displays the current weather and a 5-day forecast for a given city. Users can search for cities, view weather details, toggle between Celsius and Fahrenheit, and manage a list of favorite cities.
 
 # Features
